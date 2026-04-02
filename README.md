@@ -24,6 +24,4 @@ npm run build   # 输出到 doc_build/
 
 ## 作者
 
-**Tencent AI pkushinnxu**
-
-基于 [Janlaywss/cloud-code-study](https://github.com/Janlaywss/cloud-code-study) 二次整理，仅供学习交流。
+**Tencent AI pkushinnxu**，仅供学习交流。
