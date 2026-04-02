@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "author": "Tencent AI pkushinnxu",
-  "description": "Claude Code 原理学习网站 — by Tencent AI pkushinnxu",
+  "description": "Claude Code \u539f\u7406\u5b66\u4e60\u7f51\u7ad9 \u2014 by Tencent AI pkushinnxu",
   "scripts": {
     "build": "rspress build",
     "dev": "rspress dev",
