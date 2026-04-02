@@ -1,0 +1,27 @@
+{
+  "name": "claude-code-study",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "author": "Tencent AI pkushinnxu",
+  "description": "Claude Code 原理学习网站 — by Tencent AI pkushinnxu",
+  "scripts": {
+    "build": "rspress build",
+    "dev": "rspress dev",
+    "preview": "rspress preview"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@types/node": "^22.8.1",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "dependencies": {
+    "@rspress/core": "2.0.8",
+    "@vercel/analytics": "^2.0.1"
+  }
+}
